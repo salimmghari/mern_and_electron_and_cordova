@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">mern_and_electron_and_capacitor</string>
-    <string name="title_activity_main">mern_and_electron_and_capacitor</string>
-    <string name="package_name">com.example.app</string>
-    <string name="custom_url_scheme">com.example.app</string>
-</resources>

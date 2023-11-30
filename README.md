@@ -1,4 +1,4 @@
-# Project MERN & Electron & Capacitor
+# Project MERN & Electron & Cordova
 
 Web, desktop, and mobile software
 
@@ -11,7 +11,7 @@ Technologies:
 - React
 - Redux
 - Electron
-- Capacitor
+- Cordova
 - jQuery
 - CSS
 - Tailwind
@@ -25,14 +25,15 @@ Developed by Salim Mghari
 ## Launch:
 
 > - `cd backend/`
-> - `npm install && npm run build && npm start`
+> - `npm install && npm run build`
+> - `npm start`
 
 > - `cd frontend/`
-> - `npm install && npm start`
+> - `npm install && cordova platform add android && cordova platform add ios`
+> - `npm run web`
 > - `npm run desktop`
-> - `npx cap copy`
-> - `npx cap open android`
-> - `npx cap open ios`
+> - `npm run android`
+> - `npm run ios`
 
 ---
 
