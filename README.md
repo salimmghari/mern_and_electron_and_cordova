@@ -18,6 +18,7 @@ Technologies:
 - HTML
 - JSON
 - Git
+
 Developed by Salim Mghari 
 
 ---
@@ -37,7 +38,14 @@ Developed by Salim Mghari
 
 ---
 
+### License:
+
+Proprietary License
+
+Salim Mghari 2024
+
+---
+
 ### Contact:
 
 <mghari.963@gmail.com>  
-<a href="call:+212600981709">+212600981709</a>
